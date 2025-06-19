@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orthi123&label=Profile%20views&color=0e75b6&style=flat" alt="orthi123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orthi123" alt="orthi123" /></a> </p>
-
 - 🔭 I’m currently working on **Nike**
 
 - 🌱 I’m currently learning **Javascript and Nodejs**
@@ -30,4 +28,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=orthi123&show_icons=true&locale=en&layout=compact" alt="orthi123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orthi123&" alt="orthi123" /></p>
-
